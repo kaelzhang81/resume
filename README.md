@@ -1,2 +1,1 @@
-# resume
-基于reveal.js的个人在线简历
+kaelzhang的个人在线简历
